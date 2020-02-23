@@ -1,0 +1,43 @@
+img{
+    width: 350px;
+    height: 350px;
+    border: ridge cornflowerblue;
+}
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+h2{
+    text-align: right ;
+    color: deeppink;
+    font-weight: normal 500;
+}
+h3{ text-align: center;
+    color: gold ;
+    size: 14px;
+    font-weight: inherit;
+    border: ridge cornflowerblue;
+}
+g::before { 
+    content: "§ ";
+    size: inherit;
+    
+}
+ul.List1 li{
+    list-style: disc;
+    padding-left: 20px;
+}
+ul.List2 li{
+    list-style: none;
+    padding-right: 40px;
+    text-indent: -18px;
+}
+
+
+
+}
+
+}
